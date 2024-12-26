@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310222555613",
+    "project_id": "fir-loginpage-da860",
+    "storage_bucket": "fir-loginpage-da860.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310222555613:android:8690ab3dc2a659de890e34",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtU9RPqvLZ7YikC_-VhibYHfKhrNFieU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
